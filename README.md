@@ -15,7 +15,7 @@ In the window that pops up, put in the following command. Note: this is for Debi
 ```bash
 deb http://cloud.r-project.org/bin/linux/debian bookworm-cran40/
 ```
-Now type **crtl-O** to write the line and **crtl-X** to exit.
+Now type **crtl-O** and **enter** to write the line and **crtl-X** to exit.
 
 Next, run this to get identification for the download:
 ```bash
